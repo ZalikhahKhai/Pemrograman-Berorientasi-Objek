@@ -1,3 +1,10 @@
+/*
+Nama: Zalikhah Khairunnisa
+NIM: D1041241018
+Tanggal: 05--2-2026 
+*/
+
+package Pertemuan1;
 public class KodePertama_Latihan {
     public static void main(String[] args) {
         System.out.println("Nama    : Zalikhah Khairunnisa");
@@ -5,4 +12,5 @@ public class KodePertama_Latihan {
         System.out.println("Semester: 4");
         System.out.println("Prodi   : Informatika");
     }
+
 }

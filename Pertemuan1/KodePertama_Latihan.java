@@ -1,7 +1,7 @@
 /*
 Nama: Zalikhah Khairunnisa
 NIM: D1041241018
-Tanggal: 05--2-2026 
+Tanggal: 05-02-2026 
 */
 
 package Pertemuan1;
@@ -14,3 +14,4 @@ public class KodePertama_Latihan {
     }
 
 }
+
